@@ -12,7 +12,7 @@ Let’s build the future together. 🚀
   - Temporal Analytics
   - Adaptive Algorithms  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuringTechXE&show_icons=true&theme=radical)
 
 ## 💻 Technologies I Work With  
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
