@@ -20,7 +20,7 @@ Let’s build the future together. 🚀
 ![Quantum](https://img.shields.io/badge/Quantum-IBM%20Qiskit-blue?logo=ibm)
 
 ## 🌟 Let’s Build the Future Together  
-🔗 [Visit My Portfolio](https://yourportfolio.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 📫 Email: yourname@example.com  
+🔗 [Visit My Portfolio](https://yourportfolio.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 📫 Email: eugeneochako@gmail.com 
 
 
 <!---
