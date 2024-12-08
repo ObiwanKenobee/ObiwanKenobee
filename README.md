@@ -1,6 +1,6 @@
 # Welcome to My Multiversal Profile 
 
-Hi, I'm Eugene Ochako!   A member of the tURING research team, I'm passionate about exploring the frontiers of **quantum computing**, **temporal systems**, and **multiversal frameworks**. Let's leverage these advancements to build a brighter future, together. 
+Hi, I'm Ongiri Eugene Ochako! Hakuna Matata  A member of the tURING research team, I'm passionate about exploring the frontiers of **quantum computing**, **temporal systems**, and **multiversal frameworks**. Let's leverage these advancements to build a brighter future, together. 
 
 ##  Key Projects
 
