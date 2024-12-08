@@ -34,7 +34,6 @@ I'm proud to be a part of the tURING research team, a group of dedicated scienti
 
 **Note:**
 
-- Replace `path/to/banner-image.gif` with the actual path to your MvOS banner image.
-- Update `https://yourportfolio.com` and `(link here)` with your relevant links.
+- 
 
-This enhanced README highlights your affiliation with the tURING research team, emphasizes the groundbreaking nature of MvOS, and provides clear calls to action for collaboration.
+This enhanced README highlights my affiliation with the tURING research team, emphasizes the groundbreaking nature of MvOS, and provides clear calls to action for collaboration.
