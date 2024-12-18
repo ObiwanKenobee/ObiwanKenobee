@@ -6,7 +6,7 @@ POV:Hakuna Matata
 
 ### 🎵 Now Playing on Spotify
 
-[![Spotify Now Playing](https://fictional-lamp-eight.vercel.app/spotify-badge)](https://open.spotify.com/user/dw7o43712khuej4zdlqfxvu15)
+[![Spotify Now Playing](https://fictional-lamp-seven.vercel.app/spotify-badge)](https://open.spotify.com/user/dw7o43712khuej4zdlqfxvu15)
 
 
 
