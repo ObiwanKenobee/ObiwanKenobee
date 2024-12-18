@@ -4,6 +4,12 @@ Hi, I'm Ongiri Eugene Ochako!  A member of the tURING research team, I'm passion
 
 POV:Hakuna Matata
 
+### 🎵 Now Playing on Spotify
+
+[![Spotify Now Playing](https://fictional-lamp-eight.vercel.app/spotify-badge)](https://open.spotify.com/user/dw7o43712khuej4zdlqfxvu15)
+
+
+
 ##  Key Projects
 
 ### [MvOS: Multiversal Operating System](https://github.com/your-repo/mvos) 
