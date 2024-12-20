@@ -1,6 +1,6 @@
 # Welcome to My Multiversal Profile 
 
-Hi, I'm Eugene Ochako!  A member of the tURING research team, I'm passionate about exploring the frontiers of **quantum computing**, **temporal systems**, and **multiversal frameworks**. Let's leverage these advancements to build a brighter future, together. 
+Hi, I'm Eugene Ochako!  I'm passionate about exploring the frontiers of **quantum computing**, **temporal systems**, and **multiversal frameworks**. Let's leverage these advancements to build a brighter future, together. 
 
 POV:Hakuna Matata
 
@@ -15,7 +15,7 @@ POV:Hakuna Matata
 
 ![MvOS Banner](path/to/banner-image.gif)
 
-**MvOS** is a groundbreaking quantum-powered operating system designed to manage timelines and multiversal environments. This innovative project, spearheaded by the tURING research team, has the potential to revolutionize our understanding of space-time and unlock new possibilities.
+**MvOS** is a groundbreaking quantum-powered operating system designed to manage timelines and multiversal environments. This innovative project, spearheaded by a research team, has the potential to revolutionize our understanding of space-time and unlock new possibilities.
 
 **Features:**
 
