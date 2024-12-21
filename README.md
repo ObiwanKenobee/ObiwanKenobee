@@ -33,14 +33,6 @@ POV:Hakuna Matata
 
 I'm always eager to connect with like-minded individuals and collaborate on groundbreaking projects that push the boundaries of technology. Here are ways to connect:
 
- [Visit My Portfolio](https://yourportfolio.com) |  [LinkedIn]((https://www.linkedin.com/in/eugeneochako/)) |  Email: eugeneochako@gmail.com
-
-##  tURING Research Team
-
-I'm proud to be a part of the tURING research team, a group of dedicated scientists and engineers pushing the frontiers of multiversal innovative research. Visit our website (link here) to learn more about our initiatives and collaborations.
-
-**Note:**
-
-- 
+ [Visit My Portfolio](https://yourportfolio.com) |  [LinkedIn]((https://www.linkedin.com/in/eugeneochako/)) |  Email: eugeneochako@gmail.com 
 
 This enhanced README highlights my affiliation with the tURING research team, emphasizes the groundbreaking nature of MvOS, and provides clear calls to action for collaboration.
