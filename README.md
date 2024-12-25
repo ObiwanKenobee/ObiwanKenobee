@@ -1,6 +1,6 @@
 Just Eugene Ochako
 
-# Welcome to E-Corp! 🚀
+# Welcome to Guardian IO! 🚀
 
 We're building something amazing, and we'd love for you to be part of the journey. 🌟
 
