@@ -1,6 +1,6 @@
 Just Eugene Ochako
 
-# Welcome to [Project E]! 🚀
+# Welcome to E-Corp! 🚀
 
 We're building something amazing, and we'd love for you to be part of the journey. 🌟
 
