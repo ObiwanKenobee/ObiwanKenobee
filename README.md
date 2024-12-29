@@ -8,11 +8,4 @@ We're building something amazing, and we'd love for you to be part of the journe
 
 Learn more about our project, the roles we're looking to fill, and how you can contribute!
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObiwanKenobee&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObiwanKenobee&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ObiwanKenobee&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
