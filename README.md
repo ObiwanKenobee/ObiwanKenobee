@@ -9,3 +9,5 @@ We're building something amazing, and we'd love for you to be part of the journe
 Learn more about our project, the roles we're looking to fill, and how you can contribute!
 
 Turing Research Team 
+
+#kekiusmaximus
