@@ -1,6 +1,3 @@
-Here’s a **refined and restructured version** of your GitHub profile `README.md` to make it more polished, compelling, and professional—while keeping your creative identity and innovation-focused edge:
-
----
 
 # 👋 Hi, I’m @Gene — Eugene Ochako
 
