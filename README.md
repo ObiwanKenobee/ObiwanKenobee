@@ -12,7 +12,7 @@ Here’s a **refined and restructured version** of your GitHub profile `README.m
 
 Hi, I’m **Eugene Ochako**, a Nairobi-based software engineer passionate about shaping the **future of innovation through clean code, community, and AI**.
 
-* 🎓 Final-year student in **Business & Information Technology** at **Strathmore University** (Graduating 2024)
+* 🎓 Final-year student in **Business & Information Technology** at **Strathmore University** (Graduating 2025)
 * 🧠 Self-taught in **Computer Science & Engineering**, learning through open source and deep curiosity
 * 🛠️ From **Classic ASP** to cutting-edge **Vue 3, Flutter, and Generative AI**
 * 🧬 Obsessed with clean architecture, scalable ecosystems, and building for the next generation
