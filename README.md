@@ -40,7 +40,7 @@
 
 | Project         | Description                                                            | Tech Stack                      | Status      |
 | --------------- | ---------------------------------------------------------------------- | ------------------------------- | ----------- |
-| **Guardian-IO** | AI-powered wildlife protection and anti-slavery surveillance system    | Vue 3, Nuxt 3, Node.js, MongoDB | 🧪 In Dev   |
+| **IO** | AI-powered wildlife protection and anti-slavery surveillance system    | Vue 3, Nuxt 3, Node.js, MongoDB | 🧪 In Dev   |
 | **Nexus Tech**  | Scalable microservices for IoT-powered smart cities                    | Node.js, Express, Docker, AWS   | ✅ Released  |
 | **MetaOne**     | "Humanverse" portal—ecosystem for metaverse creators                   | Nuxt 3, Firebase, Pinia         | 🔄 Evolving |
 | **Aeon Labs**   | Climate x AI Platform – tools for planetary restoration and innovation | Flutter, Firebase, Gen AI       | 🔄 Ongoing  |
