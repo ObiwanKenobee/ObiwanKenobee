@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @Gene — Eugene Ochako
+# 👋 Hi, I’m @Gene
 
 ## 🧠 Full-Stack Innovator | 👾 Senior Frontend Engineer | 🚀 Systems Builder
 
@@ -7,7 +7,7 @@
 
 ### 💡 Who I Am
 
-Hi, I’m **Eugene Ochako**, a Nairobi-based software engineer passionate about shaping the **future of innovation through clean code, community, and AI**.
+**Eugene Ochako**, a Nairobi-based software engineer passionate about shaping the **future of innovation through clean code, community, and AI**.
 
 * 🎓 Final-year student in **Business & Information Technology** at **Strathmore University** (Graduating 2025)
 * 🧠 Self-taught in **Computer Science & Engineering**, learning through open source and deep curiosity
