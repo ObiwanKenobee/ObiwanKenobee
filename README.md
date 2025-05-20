@@ -7,7 +7,7 @@
 
 ### 💡 Who I Am
 
-**Eugene Ochako**, a Nairobi-based software engineer passionate about shaping the **future of innovation through clean code, community, and AI**.
+**Eugene**, a Nairobi-based software engineer passionate about shaping the **future of innovation through clean code, community, and AI**.
 
 * 🎓 Final-year student in **Business & Information Technology** at **Strathmore University** (Graduating 2025)
 * 🧠 Self-taught in **Computer Science & Engineering**, learning through open source and deep curiosity
