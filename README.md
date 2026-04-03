@@ -13,7 +13,7 @@
 
 ## 📬 Connect
 - ✉️ Email: eugeneochako@gmail.com  
-- 🌐 Portfolio: [Tech Wizardry](https://tech-wizardry.vercel.app)  
+
 - 🅰️ GitHub: [A](https://github.com/atlasanctum)
 
 ---
@@ -23,12 +23,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ObiwanKenobee&show_icons=true&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=ObiwanKenobee&show_icons=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObiwanKenobee)
 
----
+
 
 ## ⚡ Fun Fact
 Serious thinker. Sharp humor when comfortable. Always curious.
