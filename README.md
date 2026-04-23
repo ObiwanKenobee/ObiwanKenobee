@@ -229,10 +229,9 @@ I’m open to working on:
 
 ### 📬 Reach me
 
-- 📧 Email: eugeneochako@gmail.com 
-- 🐦 Twitter / X: https://twitter.com/genesky_e  
-- 💼 LinkedIn: https://linkedin.com/in/ 
-- 🌍 GitHub: https://github.com/ObiwanKenobee 
+🧭 DIRECT CONTACT INTERFACE
+<p align="center">
+<a href="mailto:eugeneochako@gmail.com"> <img src="https://img.shields.io/badge/Email-eugeneochako%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/> <a href="https://twitter.com/genesky_e"> <img src="https://img.shields.io/badge/Twitter%2FX-%40genesky__e-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <br/> <a href="https://linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <br/> <a href="https://github.com/ObiwanKenobee"> <img src="https://img.shields.io/badge/GitHub-ObiwanKenobee-181717?style=for-the-badge&logo=github"/> </a> </p>
 
 ---
 
