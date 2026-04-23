@@ -1,4 +1,4 @@
-# 🌍⚡ Eugene — Civilizational Systems Architect
+# 🌍⚡ Eugene — Chief Architect of Planetary Systems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f2027,100:2c5364&height=220&section=header&text=Atlas%20Sanctum%20%7C%20AEGIS%20%7C%20Genesis&fontSize=30&fontColor=ffffff&animation=fadeIn" />
@@ -184,7 +184,7 @@ focus:
 ## 🌍 Design Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20not%20building%20applications.%20We%20are%20designing%20civilizational%20infrastructure.&author=Eugene" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20not%20building%20applications.%20We%20are%20designing%20civilizational%20infrastructure.&author=ObiwanKenobee" />
 </p>
 
 ---
