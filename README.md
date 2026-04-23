@@ -69,7 +69,7 @@ A governance-grade AI system for planetary coordination
 
 ---
 
-### 🌱 Genesis360 — Planetary Intelligence OS
+### 🌱 Genesis — Planetary Intelligence OS
 
 A modular data + intelligence infrastructure system
 
