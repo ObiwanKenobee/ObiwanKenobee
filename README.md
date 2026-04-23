@@ -1,7 +1,7 @@
 # 🌍⚡ Eugene — Civilizational Systems Architect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f2027,100:2c5364&height=220&section=header&text=Atlas%20Sanctum%20%7C%20AEGIS%20%7C%20Genesis360&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f2027,100:2c5364&height=220&section=header&text=Atlas%20Sanctum%20%7C%20AEGIS%20%7C%20Genesis&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
