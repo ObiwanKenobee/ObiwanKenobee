@@ -215,6 +215,30 @@ New World: Measure → Regenerate → Align Incentives → Evolve Systems
 
 > The goal is not to build better software.
 > The goal is to build **better systems for civilization itself.**
+>
+> ## 🤝 Contact & Collaboration
+
+I’m open to working on:
+
+- AI governance systems  
+- Fintech / infrastructure platforms  
+- Climate-tech & regenerative systems  
+- Distributed intelligence networks  
+
+---
+
+### 📬 Reach me
+
+- 📧 Email: eugeneochako@gmail.com 
+- 🐦 Twitter / X: https://twitter.com/genesky_e  
+- 💼 LinkedIn: https://linkedin.com/in/ 
+- 🌍 GitHub: https://github.com/ObiwanKenobee 
+
+---
+
+### ⚡ Collaboration Mode
+
+If you're building systems, not apps — we should talk.
 
 ---
 
