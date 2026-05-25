@@ -177,7 +177,7 @@ style G fill:#3b0764,color:#fff
 |---|---|
 | ⚔️ Atlas Sanctum | Planetary regenerative intelligence ecosystem |
 | 🧬 AEGIS | Ethical AI for Global Impact Systems |
-| 🌐 Genesis360 | Modular AI-powered superapp infrastructure |
+| 🌐 Genesis | Modular AI-powered superapp infrastructure |
 | ♻️ RVE | Regenerative Value Exchange |
 | 🛰 PIaaS | Planetary Intelligence-as-a-Service |
 | 🧠 Atlas Memory Chain | Civilization memory infrastructure |
